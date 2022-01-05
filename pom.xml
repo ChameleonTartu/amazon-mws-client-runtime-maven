@@ -25,6 +25,7 @@ limitations under the License.
 	<packaging>jar</packaging>
 	<name>Amazon MWS :: Client Runtime</name>
 	<description>Amazon MWS Client Runtime Java Library</description>
+	<url></url>
 
 	<licenses>
 		<license>
