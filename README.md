@@ -2,10 +2,14 @@
 
 Mavenized version of Amazon MWS Client Runtime
 
+[![Linux](https://github.com/ChameleonTartu/amazon-mws-client-runtime-maven/actions/workflows/linux.yml/badge.svg)](https://github.com/ChameleonTartu/amazon-mws-client-runtime-maven/actions/workflows/linux.yml)
+[![Windows](https://github.com/ChameleonTartu/amazon-mws-client-runtime-maven/actions/workflows/windows.yml/badge.svg)](https://github.com/ChameleonTartu/amazon-mws-client-runtime-maven/actions/workflows/windows.yml)
+[![macOS](https://github.com/ChameleonTartu/amazon-mws-client-runtime-maven/actions/workflows/macos.yml/badge.svg)](https://github.com/ChameleonTartu/amazon-mws-client-runtime-maven/actions/workflows/macos.yml)
+
 [![Hits-of-Code](https://hitsofcode.com/github/chameleontartu/amazon-mws-client-runtime-maven)](https://hitsofcode.com/view/github/chameleontartu/amazon-mws-client-runtime-maven)
-[![Travis CI](https://travis-ci.com/ChameleonTartu/amazon-mws-client-runtime-maven.svg?branch=master)](https://travis-ci.com/ChameleonTartu/amazon-mws-client-runtime-maven)
-![Maven Central](https://img.shields.io/maven-central/v/com.github.chameleontartu/amazon-mws-client-runtime-maven)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-client-runtime-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-client-runtime-maven/)
 [![](https://jitpack.io/v/ChameleonTartu/amazon-mws-client-runtime-maven.svg)](https://jitpack.io/#ChameleonTartu/amazon-mws-client-runtime-maven)
+
 
 # How to use into Maven (pom.xml)
 
@@ -17,7 +21,7 @@ The library is published into Maven Central repository
 <dependency>
   <groupId>com.github.chameleontartu</groupId>
   <artifactId>amazon-mws-client-runtime-maven</artifactId>
-  <version>1.0.0</version>
+  <version>1.5.0</version>
 </dependency>
 ```
 
@@ -41,7 +45,7 @@ Dependency itself:
 <dependency>
     <groupId>com.github.chameleontartu</groupId>
     <artifactId>amazon-mws-client-runtime-maven</artifactId>
-    <version>1.0.0</version>
+    <version>1.5.0</version>
 </dependency>
 ```
 
@@ -65,10 +69,6 @@ The other MWS projects that ported from Ant to Maven. See [docs](https://github.
 # Contribution
 
 To contribute to this project feel free to submit issues and PRs as well as questions and enhancement proposals.
-
-# TODO
-
-This repo is one of the series of MWS API SDKs which I am planning to put under the same umbrella and keep them up-to-date.
 
 # How to support
 
