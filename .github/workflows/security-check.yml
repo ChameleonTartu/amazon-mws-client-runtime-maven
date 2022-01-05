@@ -1,4 +1,4 @@
-name: Run security check on every push
+name: Vulnerabilities
 
 on:
   push:
